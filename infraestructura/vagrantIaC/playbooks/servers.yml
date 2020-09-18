@@ -30,7 +30,7 @@
 
     - name: clone aik-repository
       git:
-        repo: 'https://github.com/andres1397/aik-portal.git'
+        repo: 'https://github.com/SebastianUrbano/aik-portal.git'
         dest: /home/app
         #clone: yes
         update: no
